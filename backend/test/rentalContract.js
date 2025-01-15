@@ -1,3 +1,4 @@
+
 const { expect } = require("chai");
 import { ethers } from "hardhat";
 
@@ -23,6 +24,10 @@ describe("RentalContract", function () {
 
     it("should set the tenant correctly", async function () {
         expect(await rentalContract.tenant()).to.equal(tenant.address);
+    });
+
+    it("should set the rent correctly", async function () {
+        expect(await rentalContract.rent()).to.equal(ethers.utils.parseEther("1"));
     });
 
 });
