@@ -19,11 +19,11 @@ This repository contains the Frontend, Backend and Contract. The Main features i
 - Tools: Hardhat
 
 **Team Members**
-Basil Wabuke
-Mary Njoroge
-Abigael Mbugua
-Timothy Maina
-John Kariuki
-Cornelius Kipkoech
-Stacy Macharia
-Stephen Karuru
+1. Basil Wabuke
+2. Mary Njoroge
+3. Abigael Mbugua
+4. Timothy Maina
+5. John Kariuki
+6. Cornelius Kipkoech
+7. Stacy Macharia
+8. Stephen Karuru
